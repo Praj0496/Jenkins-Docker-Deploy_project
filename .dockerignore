@@ -1,6 +1,7 @@
 # .dockerignore
 output.txt
-
+README.md
+Jenkinsfile_base
 
 # Ignore unnecessary files inside allowed directories
 **/*~
