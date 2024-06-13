@@ -248,7 +248,7 @@ Successfully tagged web-app:latest
 [Pipeline] // withEnv
 [Pipeline] isUnix
 [Pipeline] sh
-+ docker run -d -p 90:3000 --name my-webapp-container web-app
++ docker run -d -p 90:90 --name my-webapp-container web-app
 [Pipeline] }
 [Pipeline] // script
 [Pipeline] }
