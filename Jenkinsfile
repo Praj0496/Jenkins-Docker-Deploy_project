@@ -25,7 +25,7 @@ pipeline {
           def appImage = docker.build("web-app", "-f Dockerfile .")
 
           // Run the Docker container, exposing port 80
-          appImage.run("-p 80:90 --name my-webapp-container")
+          appImage.run("-p 90:3000 --name my-webapp-container")
         }
       }
     }
