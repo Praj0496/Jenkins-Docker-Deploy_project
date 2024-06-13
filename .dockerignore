@@ -1,0 +1,9 @@
+# .dockerignore
+output.txt
+
+
+# Ignore unnecessary files inside allowed directories
+**/*~
+**/*.log
+**/.DS_Store
+**/Thumbs.db
