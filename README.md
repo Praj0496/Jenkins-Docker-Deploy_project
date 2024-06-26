@@ -4,8 +4,6 @@ Establish a Jenkins pipeline composed of multiple stages, with each stage execut
 It ensures isolation between stages and provides a robust setup for complex application deployment. This approach enhances the efficiency and reliability of the pipeline, making it a powerful tool for DevOps practices.
 
 
-**Project Title**: End-to-End DevOps Pipeline Implementation for a Node.js Application
-
 **Project Description**:
 
 In this project, I implemented a comprehensive DevOps pipeline for a Node.js web application named 'web-app'. The project was hosted on an EC2 instance with an Ubuntu image, and utilized Jenkins and Docker for continuous integration and deployment.
