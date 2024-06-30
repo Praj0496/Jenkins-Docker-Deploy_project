@@ -1,6 +1,7 @@
 <H2>Multi-Stage Jenkins Pipelines with Unique Agents and Deploy web app to docker Container</H2>
 
-![architecture diagram](https://github.com/Praj0496/Jenkins-Docker-Deploy_project/assets/140489842/7863812a-2a88-4d05-adfc-97b676fd7b98)
+![Screenshot 2024-06-30 130837](https://github.com/Praj0496/Jenkins-Docker-Deploy_project/assets/140489842/beddc1a5-56b8-4921-94df-e69eb2b91876)
+
 
 
 Establish a Jenkins pipeline composed of multiple stages, with each stage executed on a distinct agent. This strategy is particularly beneficial when dealing with applications written in multiple languages or applications that have conflicting dependencies. 
